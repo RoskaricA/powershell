@@ -9,7 +9,7 @@ $wshell.Popup(
 
 try {
 
-
+# Pot do datoteke (isti direktorij kot skripta)
 $InputFile = Join-Path $PSScriptRoot "ObjLang.csv"
 $OutputFileBacNetMembers = Join-Path $PSScriptRoot "bacNetMember.csv"
 
@@ -18,6 +18,45 @@ if (-not (Test-Path $InputFile)) {
 }
 
 Write-Host "All input files found."
+
+# Preberi vse vrstice
+$lines = Get-Content $InputFile
+
+# Obdelaj vsako vrstico
+$processedLines = foreach ($line in $lines) {
+    # Razdeli vrstico po tabulatorju
+    $columns = $line -split "`t"
+    
+    # Če ima vsaj 3 stolpce (indeks 0, 1, 2), kopiraj stolpec 2 v stolpce 3-9
+    if ($columns.Count -ge 3) {
+        $col2Value = $columns[2]  # tretji stolpec (indeks 2)
+        
+        # Vzemi prve 3 stolpce kot so
+        $newColumns = @(
+            $columns[0],           # stolpec 0 - original
+            $columns[1],           # stolpec 1 - original
+            $col2Value             # stolpec 2 - original
+        )
+        
+        # Dodaj stolpce 3-9 z vrednostjo iz stolpca 2 (prepiše obstoječe)
+        for ($i = 3; $i -le 9; $i++) {
+            $newColumns += $col2Value
+        }
+        
+        # Združi nazaj s tabulatorjem
+        $newColumns -join "`t"
+    }
+    else {
+        # Če nima dovolj stolpcev, pusti kot je
+        $line
+    }
+}
+
+# Shrani nazaj v isto datoteko
+$processedLines | Set-Content $InputFile -Encoding UTF8
+
+Write-Host "Končano! Datoteka je posodobljena."
+Start-Sleep -Seconds 3
 
 
 

@@ -7,7 +7,7 @@
 7.git remote add origin ttps://github.com/RoskaricA/powershell.git
 8.git remote -v 
 9.git log --oneline --graph --parents
-
+10.git push origin main  
 
 
 
@@ -69,7 +69,8 @@ git remote -v
 origin  https://github.com/RoskaricA/powershell.git (fetch)
 origin  https://github.com/RoskaricA/powershell.git (push)
 
-git push origin main                                            
+git push origin main  
+
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
 Delta compression using up to 8 threads

@@ -1,4 +1,5 @@
 ﻿Transfer from github to git(local);
+0.git fetch origin
 1.git diff main origin/main
 2.git diff --name-status main origin/main
 3.git pull origin main
