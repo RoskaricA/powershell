@@ -4,7 +4,7 @@
 2.git diff --name-status main origin/main
 3.git pull origin main
 4.git log --oneline --graph --parents
-5.git merge origin/main  .... to se ne dela lokalno!! delaj na github-u...
+5.git merge origin/main  .... to nima smisla!!!!!! to se ne dela lokalno nikoli!! delaj na github-u...
 
 loči med pull(git(local)), push(git(local)), merge (github) 
 
