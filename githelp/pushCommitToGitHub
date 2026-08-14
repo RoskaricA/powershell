@@ -1,0 +1,75 @@
+(starting point)
+
+git log --oneline --graph --parents
+* 4aa37eb e894c1b (HEAD -> main, origin/main, origin/HEAD) 7: checking diff bettwen main and origin/main
+* e894c1b 64fd5e3 6: add file test.csv
+* 64fd5e3 135d031 (origin/add_commants) 5:Add_comments
+* 135d031 53bd354 4:Ignore old/
+* 53bd354 a825040 3. change in .gitignore 2
+* a825040 501d28d 2. change in file .gitignore
+* 501d28d 1.Transfer to GitHum
+
+
+(befor you have to do changes)
+git status           
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        githelp/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+stage
+git add .
+
+git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   githelp/pullFromGitHub.csv
+        new file:   githelp/pushCommitToGitHub
+
+create commit 
+git commit -m "8:Writing help file for commits"
+[main 07628bd] 8:Writing help file for commits
+ 2 files changed, 56 insertions(+)
+ create mode 100644 githelp/pullFromGitHub.csv
+ create mode 100644 githelp/pushCommitToGitHub    
+
+git log --oneline --graph --parents            
+* 07628bd 4aa37eb (HEAD -> main) 8:Writing help file for commits
+* 4aa37eb e894c1b (origin/main, origin/HEAD) 7: checking diff bettwen main and origin/main
+* e894c1b 64fd5e3 6: add file test.csv
+* 64fd5e3 135d031 (origin/add_commants) 5:Add_comments
+* 135d031 53bd354 4:Ignore old/
+* 53bd354 a825040 3. change in .gitignore 2
+* a825040 501d28d 2. change in file .gitignore
+* 501d28d 1.Transfer to GitHum
+
+git remote add origin ttps://github.com/RoskaricA/powershell.git
+
+git remote -v                      
+origin  https://github.com/RoskaricA/powershell.git (fetch)
+origin  https://github.com/RoskaricA/powershell.git (push)
+
+git push origin main                                            
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1.12 KiB | 382.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/RoskaricA/powershell.git
+   4aa37eb..07628bd  main -> main
+
+
+git log --oneline --graph --parents
+* 07628bd 4aa37eb (HEAD -> main, origin/main, origin/HEAD) 8:Writing help file for commits
+* 4aa37eb e894c1b 7: checking diff bettwen main and origin/main
+* e894c1b 64fd5e3 6: add file test.csv
+* 64fd5e3 135d031 (origin/add_commants) 5:Add_comments
+* 135d031 53bd354 4:Ignore old/
+* 53bd354 a825040 3. change in .gitignore 2
+* a825040 501d28d 2. change in file .gitignore
+* 501d28d 1.Transfer to GitHum   
