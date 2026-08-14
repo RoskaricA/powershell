@@ -1,3 +1,5 @@
+# please add some comments
+
 $wshell = New-Object -ComObject WScript.Shell
 
 $wshell.Popup(
