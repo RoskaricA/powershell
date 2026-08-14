@@ -1,0 +1,56 @@
+﻿Transfer from github to git(local);
+;
+git fetch origin;transfer from github but don't pull
+remote: Enumerating objects: 6, done.;
+remote: Counting objects: 100% (6/6), done.;
+remote: Compressing objects: 100% (3/3), done.;
+remote: Total 4 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0);
+Unpacking objects: 100% (4/4), 1.00 KiB | 54.00 KiB/s, done.;
+From https://github.com/RoskaricA/powershell;
+   e894c1b..4aa37eb  main       -> origin/main;
+;
+git diff main origin/main;check
+diff --git a/IOsDesc/comper b/IOsDesc/comper;
+new file mode 100644;
+index 0000000..e3abf8b;
+--- /dev/null;
+#NAME?;
+@@ -0,0 +1 @@;
+#NAME?;
+;
+git diff --name-status main origin/main;check
+A       IOsDesc/comper;
+;
+git log main..origin/main --oneline    ;check commit which is on github only
+4aa37eb (origin/main, origin/HEAD) 7: checking diff bettwen main and origin/main;
+;
+ git log origin/main..main --oneline;check commit which isn't on github
+;
+git log --oneline --graph --parents;commits on main(local)
+* e894c1b 64fd5e3 (HEAD -> main) 6: add file test.csv;
+* 64fd5e3 135d031 (origin/add_commants) 5:Add_comments;
+* 135d031 53bd354 4:Ignore old/;
+* 53bd354 a825040 3. change in .gitignore 2;
+* a825040 501d28d 2. change in file .gitignore;
+* 501d28d 1.Transfer to GitHum;
+;
+git pull origin main               ;pull changes form github to local
+From https://github.com/RoskaricA/powershell;
+ * branch            main       -> FETCH_HEAD;
+Updating e894c1b..4aa37eb;
+Fast-forward;
+ IOsDesc/comper | 1 +;
+ 1 file changed, 1 insertion(+);
+ create mode 100644 IOsDesc/comper;
+;
+git log --oneline --graph --parents;
+* 4aa37eb e894c1b (HEAD -> main, origin/main, origin/HEAD) 7: checking diff bettwen main and origin/main;
+* e894c1b 64fd5e3 6: add file test.csv;
+* 64fd5e3 135d031 (origin/add_commants) 5:Add_comments;
+* 135d031 53bd354 4:Ignore old/;
+* 53bd354 a825040 3. change in .gitignore 2;
+* a825040 501d28d 2. change in file .gitignore;
+* 501d28d 1.Transfer to GitHum;
+;
+git merge origin/main              ;merge locali 
+Already up to date.;
