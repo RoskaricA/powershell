@@ -1,6 +1,6 @@
 (starting point)
-
 git log --oneline --graph --parents
+
 * 4aa37eb e894c1b (HEAD -> main, origin/main, origin/HEAD) 7: checking diff bettwen main and origin/main
 * e894c1b 64fd5e3 6: add file test.csv
 * 64fd5e3 135d031 (origin/add_commants) 5:Add_comments
@@ -11,7 +11,8 @@ git log --oneline --graph --parents
 
 
 (befor you have to do changes)
-git status           
+git status  
+
 On branch main
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
@@ -31,12 +32,14 @@ Changes to be committed:
 
 create commit 
 git commit -m "8:Writing help file for commits"
+
 [main 07628bd] 8:Writing help file for commits
  2 files changed, 56 insertions(+)
  create mode 100644 githelp/pullFromGitHub.csv
  create mode 100644 githelp/pushCommitToGitHub    
 
-git log --oneline --graph --parents            
+git log --oneline --graph --parents    
+
 * 07628bd 4aa37eb (HEAD -> main) 8:Writing help file for commits
 * 4aa37eb e894c1b (origin/main, origin/HEAD) 7: checking diff bettwen main and origin/main
 * e894c1b 64fd5e3 6: add file test.csv
@@ -48,7 +51,8 @@ git log --oneline --graph --parents
 
 git remote add origin ttps://github.com/RoskaricA/powershell.git
 
-git remote -v                      
+git remote -v   
+
 origin  https://github.com/RoskaricA/powershell.git (fetch)
 origin  https://github.com/RoskaricA/powershell.git (push)
 
@@ -65,6 +69,7 @@ To https://github.com/RoskaricA/powershell.git
 
 
 git log --oneline --graph --parents
+
 * 07628bd 4aa37eb (HEAD -> main, origin/main, origin/HEAD) 8:Writing help file for commits
 * 4aa37eb e894c1b 7: checking diff bettwen main and origin/main
 * e894c1b 64fd5e3 6: add file test.csv
