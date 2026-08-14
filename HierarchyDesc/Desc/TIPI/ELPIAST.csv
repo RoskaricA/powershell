@@ -1,0 +1,25 @@
+R000;Unit state 8
+R002;Season 282
+R004;Set work mode
+R006;Temp.setting 20
+R008;Temp.setted 22
+R010;Main temperature
+R012;B1-Supply sensor 26
+R014;B2-Exhaust sensor 28
+R016;B3-External sensor 30
+R038;Vent. 
+R040;Supply(%)108
+R042;Supply(Pa)110
+R044;Measurement of the air flow of the supply air fan112
+R046;Exhaust(%)114
+R048;Exhaust(Pa)116
+R050;Measurement of the air flow of the exhaust air fan118
+R100;Y1-Water heater264
+R102;M1- Heater-pump266
+R104;Y8-Secondary Water heater
+R106;M8-Secondary Heater-pump
+R114;Y2-Water cooler 270
+R116;E1-Water cooler 272
+R118;Y9-DX cooler274 
+R120;DX cooler 276
+R128;Recovery  284

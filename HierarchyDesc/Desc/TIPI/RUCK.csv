@@ -1,0 +1,52 @@
+IR02;Prostorska temperatura 
+IR03;Temperatura vtocnega zraka
+IR04;Temperatura odtocnega zraka
+IR05;Temperatura odtocnega zraka 
+IR06;Temperatura zunanjega zraka 
+IR07;Tlacna razlika, filter 1
+IR08;Tlacna razlika, filter 2 
+IR09;Prikaz onesnazenosti 1
+IR10;Prikaz onesnazenosti 2 
+IR12;Obratovalne ure
+IR13;Stevilo zamenjav filtra 
+IR14;Vhodi 
+IR15;Izhodi 
+IR16;Volumen pretoka dovodni zrak v m3/h
+IR17;Volumen pretoka odvodni zrak v m3/h
+IR22;Nastavitev ventila gretja 
+IR23;Nastavitev ventila hlajenja
+IR24;trenutna vrednost senzorjev 
+IR25;Stevilka napake 
+IR27;Tlak odvodnega zraka na analognem vhodu 3
+IR28;Rezervirano 
+HR02;Najnisja zelena temperatura
+HR03;Najvisja zelena temperatura 
+HR16;Minimalno zracenje dovodni zrak
+HR17;Minimalno zracenje odvodni zrak
+HR18;Osnovno zracenje dovodni zrak 
+HR19; Osnovno zracenje odvodni zrak
+HR20;Udarno zracenje dovodni zrak
+HR29;Udarno zracenje odvodni zrak
+HR32;Zelena temperatura 
+HR33;Preklop zracenje
+IR14B.Bit00;Sprostilni signal zunanji
+IR14B.Bit01;Frekvencni pretvornik pripravljen
+IR14B.Bit02;Termicna zascita ventilatorja
+IR14B.Bit03;Protizmrzovalna zascita OK
+IR14B.Bit04;Senzor premikanja
+IR14B.Bit05;Protipozarni senzor ok
+IR14B.Bit06;Vrtljivi krmilnik rotacijskega izmenjevalnika toplote
+IR14B.Bit07;Termokontakt rotorja motorja
+IR15B.Bit02;Zahtevano hlajenje
+IR15B.Bit03;Bypass odprt
+IR15B.Bit04;Bypass zaprt
+IR15B.Bit05;Ventil gretja odprt
+IR15B.Bit06;Ventil gretja zaprt
+IR15B.Bit07;Crpalka grelnika vklop
+IR15B.Bit08;Naprava v okvari
+IR15B.Bit09;Zaluzija zaprta
+IR15B.Bit10;Zaluzija odprta
+IR15B.Bit11;Ventil hlajenja odprt
+IR15B.Bit12;Ventil hlajenja zaprt
+IR15B.Bit13;E-gretje
+IR15B.Bit14;Sprostitev frekvencnega pretvornika

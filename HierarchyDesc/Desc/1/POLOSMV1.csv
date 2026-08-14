@@ -1,0 +1,69 @@
+HR025;Protizaledenitvena temperatura;C,0.1
+HR001;Dovodni ventilatorji tlak;Pa,1
+HR003;Pretok dovodni ventilatorji;m3/h,1
+HR005;Tlak odvodni ventilatorji ;Pa,1
+HR007;Pretok odvodni ventilatorji;m3/h,1
+HR013;Filter dovodni zrak - tlak;Pa,1
+HR015;Filter odvodni zrak - tlak;Pa,1
+HR017;Zunanja temperatura;C,0.1
+HR019;Dovodna temperatura;C,0.1
+HR021;Odvodna temperatura;C,0.1
+HR031;Protizmrzovalna temperatura grelnik sekvenca 2;C,0.1
+HR041;Dovodna relativna vlaga;RH,0.1
+HR043;Odvodna relativna vlaga;RH,0.1
+HR051;Kontrolni signal dovodni ventilator;0,10%
+HR053;Kontrolni signal odvodni ventilator;0,10%
+HR057;Kontrolni signal toplotni izmenjevalec;0,10%
+HR059;Kontrolni signal ogrevanje sekvenca 1;0,10%
+HR061;Kontrolni signal ogrevanje sekvenca 2;0,10%
+HR069;Kontrolni signal hlajenje sekvenca 1;0,10%
+HR109;Kontrolni signal ogrevanje/hlajenje DX1 krog1;0,10%
+HR159;Kanalski tlak dovod;Pa,1
+HR160;Kanalski tlak odvod;Pa,1
+HR179;Kontrolni signal vlaženje;0,10%
+HR243;Zahtevani režim delovanja;0..4
+HR245;Režim delovanja;0..8
+HR285;Nastavitva Comfort dovodni kanal;Pa,1
+HR286;Nastavitva Eko dovodni kanal;Pa,1
+HR287;Nastavitva Comfort odvodni kanal;Pa,1
+HR288;Nastavitva Eko odvodni kanal;Pa,1
+HR289;Dejanska nastavitva dovodni kanal;Pa,1
+HR290;Dejanska nastavitva odvodni kanal;Pa,1
+HR291;Želena vrednost temperatura ogrevanje Komfort;C,0.1
+HR293;Želena vrednost temperatura ogrevanje Eko;C,0.1
+HR295;Želena vrednost temperatura hlajenje Komfort;C,0.1
+HR297;Želena vrednost temperatura hlajenje Eko;C,0.1
+HR299;Aktualna želena vrednost temperatura ogrevanje;C,0.1
+HR301;Aktualna želena vrednost temperatura hlajenje;C,0.1
+HR325;Minimalna dovodna temp.;C,0.1
+HR327;Maksimalna dovodna temp.;C,0.1
+HR333;Absolutna dovodna vlaga;g/gk,0.1
+HR335;Absolutna odvodna vlaga;g/kg,0.1
+HR339;Entalpija dovodni zrak;kj/kg,0.1
+HR341;Entalpija odvodni zrak;kj/kg,0.1
+HR343;Želena vrednost vlaženje Komfort ;rH,0.1
+HR345;Želena vrednost vlaženje Eko;rH,0.1
+HR347;Želena vrednost razvlaževanje Komfort;rH,0.1
+HR349;Želena vrednost razvlaževanje Eko;rH,0.1
+HR351;Aktualna želena vrednost vlaženje ;rH,0.1
+HR353;Aktualna želena vrednost razvlaževanje;rH,0.1
+HR365;Minimalna dovodna vlaga;rH,0.1
+HR367;Maksimalna dovodna vlaga;rH,0.1
+IR001;Požarni alarm;0..1
+IR002;Zunanji izklop;0..1
+IR004;Dovodni ventilator alarm;0..1
+IR005;Odvodni ventilator alarm;0..1
+IR013;Odtaljevanje DX1 krog1;0..1
+IR024;Alarm DX1 krog1;0..1
+IR033;Vlaženje Alarm;0..1
+IR100;Zunanje žaluzije;0..1
+IR101;Vklop/izklop dovodni ventilator;0..1
+IR102;Vklop/izklop odvodni ventilator;0..1
+IR105;Vklop/izklop grelnik sekvenca 1;0..1
+IR106;Vklop/izklop grelnik sekvenca 2;1..1
+IR110;Vklop/izklop hlajenje sekvenca 1;0..1
+IR120;Vklop/izklop ogrevanje DX1 krog1;0..1
+IR125;Vklop/izklop hlajenje DX1 krog1 ;0..1
+IR130;Vklop/izklop DX1 krog1;0..1
+IR165;Vklop/izklop vlažilnik;0..1
+IR167;Skupni alarm;0..1

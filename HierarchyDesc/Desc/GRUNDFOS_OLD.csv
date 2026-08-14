@@ -1,0 +1,56 @@
+IR00201;Pump status register block
+IR00202;Actual process feedback from the E-pump
+IR00203;Actual control mode
+IR00204;Actual operating mode
+IR00205;The Grundfos-specific alarm code
+IR00206;The Grundfos-specific warning code
+IR00212;Nominal pump frequency
+IR00213;Minimum pump frequency in % of nominal frequency
+IR00214;Maximum pump frequency in % of nominal frequency
+IR00215;Minimum value of setpoint range in % of sensor maximum value
+IR00216;Maximum value of setpoint range in % of sensor maximum value
+IR00301;Actual system head/pressure
+IR00302;Actual system flow
+IR00303;Performance relative to maximum performance
+IR00304;Motor speed 
+IR00305;Actual control signal applied to motor 
+IR00308;Actual setpoint
+IR00309;Actual motor current 
+IR00311;Motor voltage
+IR00312;Total power consumption of the system
+IR00315;System inlet pressure, relative to atmospheric pressure
+IR00316;Measured pressure 1 at external sensor-relative to atmospheric pressure 
+IR00320;Temperature 1 at external sensor
+IR00327;Total operating time of the system
+IR00329;Total power-on time of the system 
+IR00332;Total energy consumption of the system
+IR00337;Ambient temperature
+IR00338;Inlet water temperature 
+IR00339;Outlet water temperature
+IR00340;Differential temperature
+IR00341;Differential temperature
+IR00342;Tank feed level
+IR00343;Setpoint before modifications
+IR00363;Pumped volume 
+IR00365;Life time accumulated heat energy External temperature sensor required
+IR00367;Current heat power External temperature sensor required
+IR00401;Pump 1 register block
+IR00402;Grundfos-specific alarm code
+IR00403;Operating time of the pump
+IR00405;Speed of the pump motor
+IR00406;Average value of line currents on the pump
+IR00407;Power consumption of the pump
+IR00408;Motor temperature of the pump
+IR00409;Control source of the pump
+IR00411;Pump 2 register block
+IR00412;Grundfos-specific alarm code
+IR00413;Operating time of the pump
+IR00415;Speed of the pump motor
+IR00416;Average value of line currents on the pump
+IR00417;Power consumption of the pump
+IR00418;Motor temperature of the pump
+IR00419;Control source of the pump
+
+
+
+

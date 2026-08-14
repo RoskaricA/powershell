@@ -1,0 +1,39 @@
+HR0001;remote operating status
+HR0002;remote operating mode
+HR0003;cooling mode setpoint
+HR0004;heating mode setpoin
+HR0005;Reduced mode
+HR0040;HMI operating mode
+HR0039;HMI operating status
+IR0001;control of operating status
+IR0002;control of operating mode
+IR0003;current operating mode
+IR0004;EWT value
+IR0005;LWT value 
+IR0006;OAT sensor value
+IR0007;requested load 
+IR0008;produced capacity 
+IR0031;calculated cooling mode setpoint
+IR0032;calculated heating mode setpoint
+IR0010;Coil temperature
+IR0011;Evaporating pressure
+IR0012;Condensing pressure 
+IR0014;Discharge temperature
+IS0004;Single pump status
+IS0011;Compressor 1 status
+IS0012;Compressor 2 status
+IR0030;Number of alarms
+IS0029;Alarm general
+IS0030;Flowswitch protection
+IS0031;EWT sensor alarm
+IS0032;LWT sensor alarm
+IS0033;OAT sensor alarm
+IS0036;Frost protection alarm
+IS0050;OCT sensor alarm
+IS0051;LP sensor alarm
+IS0052;HP sensor alarm
+IS0053;CST sensor alarm
+IS0054;CDT sensor alarm
+IS0056;X8/D1 breakers alarm
+IS0059;HP switch alarm
+

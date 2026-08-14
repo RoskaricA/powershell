@@ -1,0 +1,24 @@
+IR0501;Outside air temperatura
+IR0502;Outside air temperature
+IR0505;Supply air temperature
+IR0506;Supply air temperature
+IR0509;Extract air temperature
+IR0510;Extract air temperature
+IR0513;Exhaust air temperature
+IR0514;Exhaust air temperature
+IR1009;Supply air volume flow
+IR1010;Supply air volume flow
+IR1011;Exhaust air volume flow
+IR1012;Exhaust air volume flow
+IR1031;Display fault list
+IR1032;Display fault list
+IR1033;Temperature setpoint
+IR1034;Temperature setpoint
+HR2001;Room operating mode
+HR1563;Setpoint temperature when comfort  ilegal i.
+HR1564;Setpoint temperature when comfort  ilegal i.	
+HR1565;Setpoint temperature when economy
+HR1566;Setpoint temperature when economy	
+HR1567;Setpoint temperature when unoccupied
+HR1568;Setpoint temperature when unoccupied	
+	

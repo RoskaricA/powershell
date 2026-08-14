@@ -1,0 +1,32 @@
+A0001;SUW - Outlet water evaporator temperature
+A0002;SIW - Inlet water evaporator temperature
+A0007;TAP1 - High pressure circuit 1 
+A0008;TBP1 - Low pressure circuit 1
+A0009;TAP2 - High pressure circuit 2 
+A0010;TBP2 - Low pressure circuit 2
+A0011;TAE - External air temperature 
+A0012;SGP1A - Compressor 1 circuit 1 discharge temperature probe 
+A0013;SGP2A - Compressor 1 circuit 2 discharge temperature probe 
+A0014;SL1 - Liquid temperature circuit 1 
+A0015;SL2 - Liquid temperature circuit 2 
+A0017;SGP1B - Compressor 2 circuit 1 discharge temperature probe
+A0018;SGP2B - Compressor 2 circuit 2 discharge temperature probe 
+A0198;Current system setpoint 
+A0204;Setpoint 1, summer 
+A0205;Setpoint 2, summer
+A0206;Set point 1, winter
+A0207;Set point 2, winter 
+IR001;Plant On/Off mode (0=OFF; 1=ON; 2=”ECONOMY”; 3=BY CLOCK)
+IR003; Mode selection (Summer/Winter) (0=Summer; 1=Winter; 2=by External Air; 3=from DIN;4=from BMS; 5=from Scheduler)
+IR006;Plant active power (0...100%)
+D0001;Unit status
+D0030;MPO1 - Evaporator pump 1
+D0031;MPO2 - Evaporator pump 2
+D0036;CP1A - Compressor 1 circuit 1 
+D0037;CP1B - Compressor 2 circuit 1 
+D0039;CP2A - Compressor 1 circuit 2 
+D0040;CP2B - Compressor 2 circuit 2 
+D0097;Alarm circuit 1
+D0098;Alarm circuit 2
+D0099;Unit defrost state (1 = defrost in progress)
+D0100;AE - alarms summary 

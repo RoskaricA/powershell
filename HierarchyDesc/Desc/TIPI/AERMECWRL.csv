@@ -1,0 +1,46 @@
+HR001;Bl - SUWH - water outlet temperature geothermal
+HR002;B2 - SIWH - return water temperature geothermal
+HR004;B8 - water outlet temperature zone 1
+HR005;B4 - SIW - System return temperature
+HR010;Temperature control system
+HR012;B7 - SUW-temperature  water delivery
+HR016;Set Point plant cold
+HR017;Set point plant hot
+HR018;Eco system set point cold
+HR019;Eco heat set point hot
+HR020;Current setpoint Chiller
+HR021;Bll    - Condensing pressure
+HR022;B12 - Pressure Evaporation
+HR023;B4 - system return water temperature
+HR024;B9 - gas compressor discharge temperature
+HR025;B7 - System water outlet temperature
+HR026;B6 - Outside air temperature
+HR027;Bl0  - SAC evaporation temperature
+CR001;Economy mode activated
+CR002;Reset alarms from BMS
+CR006;POC - Pump Geothermal
+CR007;POE - pump system
+CR008;Mode Plant (0=chiller-cooling / 1=heat pump-Winter)
+CR028;On/Off by BMS 
+CR081;At least one active alarm
+CR082;BMS forced summer/ winter
+CR119; CCP - Compressor 1 On
+CR120;CCPA - Compressor 2 On
+CR123;On-Off from digital input
+AL032;AL021 - Alarm system flow
+AL043;AL014 - High pressure alarm from probe
+AL046;AL0lS - Low pressure alarm from probe
+AL057;AL013 - High pressure
+AL061;AL016 - Alarm Compressor 1 thermal
+AL062;AL017 - Alarm Compressor 2 thermal
+AL067;AL019 -Alarm geothermal flow
+AL130;General alarm digital output
+AL142;AL054 - Threshold counter Compressor 1 
+AL143;AL001 - Alarm probe failure - geothermal discharge
+AL144;AL002 - Alarm probe failure - Return geothermal
+AL146;AL004 - Alarm probe failure - temp. return plant
+AL147;AL005 - Alarm probe failure - B5 
+AL151;AL009 - Alarm probe failure - Temp.Gas B9 
+AL152; AL010 - Alarm probe failure - Temp. Suction B10 
+AL153;AL011 - Alarm probe failure – High pressure B11
+AL154;AL012 - Alarm probe failure – Low pressure B12

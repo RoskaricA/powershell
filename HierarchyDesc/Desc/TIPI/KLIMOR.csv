@@ -1,0 +1,48 @@
+R008;System status (current) 
+R018;Set operating mode (for Type 4 home screen) 
+R020;Temperature setpoint  
+R022;Setpoint temperature (includes calendar and start ramp)  
+R024;Temperature of the lead sensor for temperature control  
+R026;B1-Supply temperature 
+R028;B2-Exhaust temperature 
+R030;B3-Outdoor temperature 
+R106;Start/stop signal of air handling unit fans  
+R108;Supply inverter setting 
+R110;Supply fan pressure measurement(Pa) 
+R112;Supply fan air ﬂow rate measurement 
+R114;Exhaust inverter setting 
+R116;Exhaust fan pressure measurement(Pa)
+R118;Exhaust fan air ﬂow rate measurement 
+R264;Y1-Water heater setting 
+R266;M1-Water heater circulation pump 
+R270;Y2-Water cooler setting 
+R272;E1-Cooling demand (with water heater)  
+R274;Y9-Freon cooler setting 
+R276;Freon cooler setting 
+R280;Reverse unit setting
+R282;Reverse unit mode 
+R284;Recovery  
+A1130;Fire alarm
+A1132;Alarm - oﬀ S1
+A1134;Low supply temperature alarm
+A1136;Antifreeze thermostat alarm
+A1138;Antifreeze thermostat alarm3
+A1140;Low return water temperature alarm of the water heater
+A1142;Low return water temperature alarm of the water heater3
+A1144;Electric heater thermostat alarm
+A1146;Electric heater thermostat alarm3
+A1148;Gas heater alarm
+A1150;Gas heater alarm3
+A1152;DX cooler alarm
+A1154;Reverse unit alarm 
+A1156;Rotary, glycol recovery inverter alarm
+A1158;Recovery frost alarm
+A1160;Dirty supply ﬁlter alarm
+A1162;Dirty supply secondary ﬁlter alarm
+A1164;Dirty electrostatic ﬁlter alarm
+A1166;Dirty exhaust ﬁlter alarm
+A1168;Supply fan alarm (tested with a pressure switch) 
+A1170;Supply fan inverter alarm 
+A1172;Exhaust fan inverter alarm
+A1260;Collective alarm 
+

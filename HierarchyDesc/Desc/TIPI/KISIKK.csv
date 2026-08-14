@@ -1,0 +1,22 @@
+R01;MQ OXYGEN left supply pressure
+R02;MQ OXYGEN right supply pressure
+R03;MQ OXYGEN liquide supply pressure
+R04;MQ OXYGEN working pressure
+R05;MQ OXYGEN 1.stage left side pressure
+R06;MQ OXYGEN 1.stage right side pressure
+R15;MQ OXYGEN left supply alarm
+R16;MQ OXYGEN right supply alarm
+R17;MQ OXYGEN liquide supply alarm
+R18;MQ OXYGEN working pressure alarm
+R19;MQ OXYGEN working pressure alarm
+R20;MQ OXYGEN working pressure alarm
+R21;MQ OXYGEN 1.stage left side pressure alarm
+R22;MQ OXYGEN 1.stage right side pressure alarm
+R23;MQ OXYGEN leakage alarm
+R24;MQ OXYGEN left general alarm
+Q1;MQ OXYGEN left supply alarm
+Q2;MQ OXYGEN right supply alarm
+Q3;MQ OXYGEN liquide supply alarm
+Q4;MQ OXYGEN working pressure alarm
+Q5;MQ OXYGEN leakage alarm
+Q6;MQ OXYGEN left general alarm

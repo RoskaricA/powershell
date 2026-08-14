@@ -1,0 +1,41 @@
+IR01161;Active User mode
+IR01351;Fans operation status
+IR02054;Temperature setpoint for supply air temperature calculated for extract
+IR02055;Overall heat demand, %
+IR02149;Heater TRIAC output, %
+IR12101;Frost Protection Temperature sensor
+IR12102;Outside air temperature sensor
+IR12103;Supply Air Temperature sensor
+IR12104;Room Air Temperature sensor
+IR12105;Extract Air Temperature sensor
+IR02149;Heater TRIAC output, %
+IR12308;External stop input status
+IR12311;Fire alarm input status
+IR12401;Supply air fan speed out RPM
+IR12402;Extract air fan speed out RPM
+IR12403;Supply air fan 
+IR12404;Extract air fan 
+IR14001;Supply air fan speed out
+IR14002;Extract air fan speed out
+IR14003;Alarm output status 
+IR14004;Outdoor/exhaust damper output status
+IR14103;Heat exchanger analog output
+IR14309; Digital output for unit status
+IR15002;Supply air fan control alarm status
+IR15009;Extract air fan control alarm status
+IR15030;Supply air fan feedback alarm status
+IR15037;Extract air fan feedback alarm status
+IR15121;Rotary heat exchanger rotation guard alarm status
+IR15142;Filter alarm status
+IR15901;Indicates if an alarm Type A is active
+IR15902;Indicates if an alarm Type B is active
+IR15903;Indicates if an alarm Type C is active
+HR02001;User temperature setpoint
+HR02021;Minimum temperature setpoint for supply air
+HR02022;Maximum temperature setpoint for supply air
+HR01162;New desired user mode
+HR15143; Filter alarm clearing
+HR15905;Clears all active alarms
+HR02031;Temperature control mode
+
+

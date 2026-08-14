@@ -1,0 +1,62 @@
+H1280.V;UNIT ON/OFF AND MODE CHANGE
+H1280.B00;OFF status LSB
+H1280.B01;Digital ON/OFF status LSB 
+H1280.B02;Chiller status LSB
+H1280.B03;Heat pump status LSB 
+H1280.B04;Alarm reset LSB
+H1280.B05;Buzzer mute LSB
+H1280.B06;Dynamic set LSB
+H1280.B07;Energy saving LSB
+H1280.B08;OFF status MSB
+H1280.B09;Digital ON /OFF status MSB
+H1280.B10;Chiller status MSB
+H1280.B11;Heat pump status MSB 
+H1280.B12;Alarm reset MSB
+H1280.B13;Buzzer mute MSB
+H1280.Dynamic set MSB
+H1280.B15;Dynamic set MSB
+H0512.V;DIGITAL INPUTS 512
+H0512.B00;High Pressure circ.2
+H0512.B01;Low Pressure circ.1
+H0512.B02;Low Pressure circ.2
+H0512.B03;High Pressure comp.1 
+H0512.B04;High Pressure comp.2
+H0512.B05;High Pressure comp.3
+H0512.B06;High Pressure comp.4
+H0512.B07;Not Used
+H0512.B08;Heating mode by DI 
+H0512.B09;OFF by DI
+H0512.B10;Cooling mode by DI 
+H0512.B11;Flow Switch
+H0512.B12;Flow Switch Hot Side
+H0512.B13;Antifreeze circ.1
+H0512.B14;Antifreeze circ.2
+H0512.B15;High Pressure circ.1
+H2048.V;DIGITAL OUTPUTS 2048
+H2048.B08;Alarm
+H3328.V;ACTIVE ALARMS AND WARNINGS 3328
+H3329.V;ACTIVE ALARMS AND WARNINGS 3329
+H3330.V;ACTIVE ALARMS AND WARNINGS 3330
+H3331.V;ACTIVE ALARMS AND WARNINGS 3331
+H3332.V;ACTIVE ALARMS AND WARNINGS 3332
+H3333.V;ACTIVE ALARMS AND WARNINGS 3333
+H3334.V;ACTIVE ALARMS AND WARNINGS 3334
+H3337.V;ACTIVE ALARMS AND WARNINGS 3337
+H3338.V;ACTIVE ALARMS AND WARNINGS 3338
+H3339.V;ACTIVE ALARMS AND WARNINGS 3339
+H3584;Compressor 1 working hours
+H3585;Compressor 2 working hours
+H1536;Set point real value
+H1537;Set point chiller
+H1538;Set point heat pump
+H1539;Set point sanitary water
+H1540;Set point antilegionella
+H0256;Inlet water 
+H0258;Outlet water 
+H0260;High pressure 
+H0262;Low pressure
+H0264;External air
+H0266;Compressor discharge
+H0272;Sanitary water (tank)
+H0274;Sanitary water (DWS outlet)
+H0278;Compressor discharge 2

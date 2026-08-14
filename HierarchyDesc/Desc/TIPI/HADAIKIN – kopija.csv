@@ -1,0 +1,51 @@
+HR0001;Chiller Local/Remote ;0=Remote, 1=Local
+HR0005;Alarm Digital Output;0=No Alarm, 1=Alarm 
+HR0008;Chiller On/Off;0=Off, 1=On 
+HR0011;Chiller Mode Output ;EWWD: 0=Null, 1=Ice, 2=Cool, 3=Heat 
+HR0012;Active Setpoint ;°C
+HR0013;Actual Capacity ;0 - 100%
+HR0014;Active Capacity Limit Output ;0 - 100%
+HR0015;Chiller Status (Chiller Run Mode) ;1=Off, 2=Start, 3=Run, 4=Pre Shutdown, 5=Service 
+HR0025;Chiller Current ;
+HR0028;Warning Alarm Index ;
+HR0029;Problem Alarm Index ;
+HR0030;Fault Alarm Index ;
+HR0031;Warning Alarm Code;
+HR0032;Problem Alarm Code ;
+HR0033;Fault Alarm Code ;
+HR0035;Cool Setpoint – Network;
+HR0038;Capacity Limit Setpoint - Network;
+HR0039;Circuit #1 - Condenser Refrigerant Pressure ;0 to 2827 kPa
+HR0040;Circuit #1 - Condenser Saturated Refrigerant Temp;-26.1 to 85°C
+HR0041;Circuit #1 - Evaporator Refrigerant Pressure ;-2413 to 2413 kPa 
+HR0042;Circuit #1 - Evaporator Saturated Refrigerant Temp;-26.1 to 85°C 
+HR0043;Circuit #2 - Condenser Refrigerant Pressure ;0 to 2827 kPa
+HR0044;Circuit #2 - Condenser Saturated Refrigerant Temp;-26.1 to 85°C
+HR0045;Circuit #2 - Evaporator Refrigerant Pressure ;-2413 to 2413 kPa 
+HR0046;Circuit #2 - Evaporator Saturated Refrigerant Temp;-26.1 to 85°C 
+HR0065;Circuit #1 - Suction Refrigerant Temp ;-40 to 110° C
+HR0068;Circuit #1 Comp #1 - Discharge Refrigerant Temp ;-40 to 121°C
+HR0085;ChangeOver Temp; °C
+HR0107;Circuit #2 Comp #1 - Discharge Refrigerant Temp ;-40 to 121°C
+HR0305;Evaporator Pump #1 Status ;0=Pump Off Request, 1=Pump On Request
+HR0308;Evaporator Pump #2 Status;0=Pump Off Request, 1=Pump On Request
+HR1549;Circuit #1 Operating Mode;0=Mechanical,1=Switching,2=Switching,3=FreeCooling,4=FC,Pumpdown, 5= FCOff
+HR1550;Circuit #2 Operating Mode;0=Mechanical,1=Switching,2=Switching,3=FreeCooling,4=FC,Pumpdown, 5= FCOff
+HR1786;Circuit #2 Comp #3 – Status;0 = Off, 1 = On 
+HR1799;Circuit #2 Comp #2 – Status;0 = Off, 1 = On 
+HR1800;Circuit #2 Comp #1 - Actual Capacity ;-40 to 110° C
+HR1812;Circuit #2 Comp #1 – Status ;0 = Off, 1 = On 
+HR1825;Circuit #1 Comp #3 – Status;0 = Off, 1 = On 
+HR1838;Circuit #1 Comp #2 – Status;0 = Off, 1 = On 
+HR1840;Circuit #1 Comp #1 - Actual Capacity ;
+HR1852;Circuit #1 Comp #1 – Status ;0 = Off, 1 = On 
+HR1966;Circuit #2 - EXV Position;0 to 110% 
+HR1970;Circuit #2 - Outdoor Fan Speed ;
+HR1971;Circuit #2 - Condenser Approach Temp;0 to10 d°C (0 to 50 d°F) 
+HR1972;Circuit #2 - Evaporator Approach Temp ;0 to10 d°C
+HR1981;Circuit #2 - Outdoor Fan Status;
+HR1982;Circuit #1 - EXV Position;0 to 110% 
+HR1986;Circuit #1 - Outdoor Fan Speed ;
+HR1987;Circuit #1 - Condenser Approach Temp;0 to10 d°C (0 to 50 d°F) 
+HR1988;Circuit #1 - Evaporator Approach Temp ;0 to10 d°C
+HR1997;Circuit #1 - Outdoor Fan Status;

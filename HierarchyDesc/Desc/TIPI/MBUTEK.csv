@@ -1,0 +1,23 @@
+HR014;Speed balance;%;
+HR020;season;0:auto,1:winter,2:summer;
+HR051;Speed setpoint;%;3 speed ali varialble
+HR056;Temp.free.setpoint;C;
+HR081;Extrernal ait tmp;;
+HR082;Exhaust air tmp;;
+HR083;Expelled air tmp;;
+HR084;Input air tmp;;
+HR085;Input air tmp;;
+HR086;TEMP_W;;
+HR090;Alarm_1;;
+HR091;DP_SUPPLY
+HR091;DP_EXHAUST
+HR092;FLOW_SUPPLY
+HR093;FLOW_SUPPLY
+HR094;FLOW_EXHAUST
+HR095;FAN_HOURS_H
+HR096;FAN_HOURS_L
+HR098;PRE_HEAT
+HR099;POST_HEAT
+HR100;TEMP_D
+
+

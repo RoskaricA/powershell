@@ -1,0 +1,69 @@
+CR03;Reset alarmov
+IR01;Outdoor temperature
+IR03;Cor_RunMode
+IR04;Running time (hour) supply air fan
+IR05;Running time (hour) extract air fan
+IR06;Number of minutes extended operation
+IR07;Supply air temperature
+IR08;Calculated setpoint supply air 
+IR09;Extract air temperature
+IR13;Supply air fan pressure (Pa) 
+IR14;Extract air fan pressure (Pa)
+IR15;Supply air fan flow (m3/h)
+IR16;Extract air fan flow (m3/h)
+IR17;CO2 (ppm)
+IR19;Frost protection temperature 
+IR20;Exhaust air temperature
+IR23;Humidity room 
+IR24;Humidity duct 
+IR71;Supply air fan malfunction
+IR72;Return air fan malfunction
+IR76;Filter guard
+IR78;External frost guard 
+IR80;Fire alarm
+IR81;External switch
+IR93;Electric heating is overheated 
+IR94;Frost risk
+IR119;Control signal heating Y1 (0...10 V)
+IR120;Control signal exchanger Y2 (0...10 V) 
+IR121;Control signal cooler Y3 (0...10 V)
+IR122;Control signal supply air fan (0...10 V)
+IR123;Control signal extract air fan (0...10 V) 
+IR124;Control signal humidity (0...10 V)
+IR125;Control signal split (0...10 V)
+IR126;Supply controller output (0...100 %) 
+IR128;SAF controller output (0...100 %)
+IR129;EAF controller output (0...100 %)
+IR131;CO2 controller output (0...100 %)
+IR134;Humidity controller output (0...100 %) 
+IR284;UnitRunMode
+HR18;Setpoint extract air temp if extract air 
+HR24;Setpoint full speed supply air fan 
+HR25;Setpoint reduced speed supply air fan
+HR26;Setpoint full speed extract air fan
+HR27;Setpoint reduced speed extract air fan 
+HR32;Setpoint CO2
+HR37;Setpoint humidity room 
+HR38;Max limit humidity duct 
+HR368;AirUnitAutoMode
+HR404;Max limit of supply setpoint
+HR405;Min limit of supply setpoint
+HR377;Running mode Heating
+HR379;Running mode Exchanger
+HR381;Running mode Cooling
+HR383;Running mode Humidification/Dehumidification
+IS85;Start signal Heat Pump
+IS86;Start signal Exchanger 
+IS87;Start signal Cool Pump 
+IS88;Start signal frequencer supply air fan
+IS89;Start signal frequencer extract air fan
+IS184;Sum alarm: Set if any A or B alarm
+IS185;A-alarm: Set if any A-alarm
+IS186;B-alarm: Set if any B- or C-alarm
+IS81;Start signal full speed supply air fan
+IS82;Start signal full speed extract air fan 
+IS83;Start signal half speed supply air fan
+IS84;Start signal half speed extract air fan
+HRW404;Max limit of supply setpoint
+HRW405;Min limit of supply setpoint when
+HRW18;Setpoint extract air temp if extract air 

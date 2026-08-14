@@ -1,0 +1,56 @@
+IR201;Pump status register block
+IR202;Actual process feedback from the E-pump
+IR203;Actual control mode
+IR204;Actual operating mode
+IR205;The Grundfos-specific alarm code
+IR206;The Grundfos-specific warning code
+IR208;Presence of pumps
+IR209;Running status of pumps
+IR210;Alarm status of pumps
+IR211;Communication status of pumps
+IR213;Auto-control mode status of pumps
+IR301;Actual system head/pressure
+IR302;Actual system flow
+IR303;Performance relative to maximum performance
+IR308;Actual setpoint
+IR309;Actual motor current 
+IR312;Total power consumption of the system
+IR315;System inlet pressure, relative to atmospheric pressure
+IR316;Measured pressure 1 at external sensor-relative to atmospheric pressure 
+IR320;Temperature 1 at external sensor
+IR327;Total operating time of the system
+IR329;Total power-on time of the system 
+IR332;Total energy consumption of the system
+IR337;Ambient temperature
+IR338;Inlet water temperature 
+IR339;Outlet water temperature
+IR340;Differential temperature
+IR341;Differential temperature
+IR343;Setpoint before modifications
+IR345;Number of times the booster system has been powered on
+IR355;Medium temperature
+IR356;Differential pressure
+IR357;Differential inlet pressure
+IR358;Differential outlet pressure 
+IR359;Differential remote pressure 
+IR360;Flow measurement from remote sensor
+IR363;Pumped volume
+IR365;Life time accumulated heat energy
+IR367;Current heat power
+IR369;Forward/Return differential temperature
+IR401;Pump 1 register block
+IR402;Grundfos-specific alarm code
+IR403;Operating time of the pump
+IR405;Speed of the pump motor
+IR406;Average value of line currents on the pump
+IR407;Power consumption of the pump
+IR408;Motor temperature of the pump
+IR409;Control source of the pump
+IR411;Pump 2 register block
+IR412;Grundfos-specific alarm code
+IR413;Operating time of the pump
+IR415;Speed of the pump motor
+IR416;Average value of line currents on the pump
+IR417;Power consumption of the pump
+IR418;Motor temperature of the pump
+IR419;Control source of the pump

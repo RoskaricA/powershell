@@ -1,0 +1,62 @@
+HRW600;Active alarms count
+HRW104;Setpoint Away
+SpEconomy;Setpoint Normal
+SpComfort;Setpoint Intensive
+HRW122;Setpoint Boost
+HRW101;Supply flow Away
+HRW103;Extract flow Away
+HRW107;Supply flow Normal
+HRW109;Extract flow Normal
+HRW113;Supply flow Intensive
+HRW115;Extract flow Intensive
+HRW119;Supply flow Boost
+HRW121;Extract flow Boost
+HR001;ON/OFF status
+HR003;ECO mode
+HR004;AUTO mode
+HR005;Current mode
+HR101;Supply flow Away
+HR103;Extract flow Away
+HR104;Setpoint Away
+HR105;Heating Away
+HR107;Supply flow Normal
+HR109;Extract flow Normal
+HR110;Setpoint Normal
+HR111;Heating Normal
+HR113;Supply flow Intensive
+HR115;Extract flow Intensive
+HR116;Setpoint Intensive
+HR117;Heating Intensive
+HR119;Supply flow Boost
+HR121;Extract flow Boost
+HR122;Setpoint Boost
+HR123;Heating Boost
+HR600;Active alarms count
+HR601;Active alarm 1 code (newest)
+HR602;.MBK5.HR602
+HR603;.MBK5.HR603
+HR604;.MBK5.HR604
+HR605;.MBK5.HR605
+HR606;.MBK5.HR606
+HR607;.MBK5.HR607
+HR608;.MBK5.HR608
+HR609;.MBK5.HR609
+HR610;.MBK5.HR610
+HR902;Supply temperature
+HR903;Extract Temperature
+HR904;Outdoor temp
+HR905;Water temperature
+HR907;Current supply flow
+HR909;Current extract flow
+HR910;Current supply fan intensivity
+HR911;Current extract fan intensivity
+HR912;Heat exchanger
+HR913;Electric heater
+HR914;Water heater
+HR915;Water cooler
+HR916;DX unit
+HR917;Filters Imupurity
+HR918;Air dampers
+HR919;Supply pressure
+HR920;Extract pressure
+HR924;Heat exchanger efficiency

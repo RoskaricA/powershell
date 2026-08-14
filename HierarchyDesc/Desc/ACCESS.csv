@@ -1,0 +1,63 @@
+CR00;Reset alarmov
+IS007;Sum alarm: Unacknowledged A-, B- or C-alarm 
+IS011;Malfunction supply air fan 1
+IS106;Freeze protection alarm 
+IS016;Malfunction extract air fan 1
+IR374;aw value AO5
+IS063;Filter alarm supply air 
+IS064;Filter alarm extract air 
+IS065;Alarm low air flow 
+IS066;Freeze protection guard 
+IS067;Defrosting guard exchanger 
+IS068;Fire alarm 
+IS069;Smoke alarm 
+IS070;External stop 
+IS071;External alarm 
+IS072;Service stop 
+IS073;Electric heater is overheated
+IS074;Warning freeze protection 
+IS075;Low efficiency exchanger 
+IS076;Defrosting alarm 
+IS077;Rotary exchanger alarm 
+IR052;Filter alarm supply air 
+IR053;Filter alarm extract air 
+IR054;Alarm low air flow 
+IR055;Freeze protection guard 
+IR056;Defrosting guard exchanger 
+IR057;Fire alarm 
+IR058;Smoke alarm 
+IR059;External stop 
+IR060;External alarm 
+IR061;Service stop 
+IR062;Electric heater is overheated
+IR063;Warning freeze protection 
+IR064;Low efficiency exchanger 
+IR065;Defrosting alarm 
+IR066;Rotary exchanger alarm 
+IS333;Actual value DO1 
+IS334;Actual value DO2 Outdoor/exhaust air
+IS335;Actual value DO3 
+IS336;Actual value DO4 Cooling pump
+IS337;Actual value DO5 DX 1 cooling
+IS338;Actual value DO6 DX 1 cooling
+IS339;Actual value DO7Alarm output
+IR290;Actual value outdoor temperature 
+IR291;Actual value intake air temperature 
+IR292;Actual value supply air temperature 
+IR293;Actual value exhaust air temperature 
+IR294;Actual value extract air temperature 
+IR299;Actual value supply air pressure
+IR300;Actual value extract air pressure 
+IR301;Actual value supply air flow 
+IR302;Actual value extract air flow 
+IR353;Actual value supply air fan 
+IR354;Actual value extract air fan 
+IR372;Raw value AO3 GRETJE
+IR373;Raw value AO4 HLAJENJE
+IR396;Actual unit mode
+IR397;Indicates what is triggering the current run mode
+HR565;Running mode air handling unit
+HR588;Setpoint supply air temperature when constant supply 
+HR589;Setpoint extract air temperature if extract control 
+HR590;Max limit supply temperature setpoint if cascade 
+HR591;Min limit supply temperature setpoint if cascade 

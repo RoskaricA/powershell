@@ -1,0 +1,42 @@
+IR001;Control of operating status
+IR002;Control of operating mode
+IR003;Current operating mode
+IR004;RWT sensor value 
+IR005;LWT sensor value 
+IR006;OAT sensor value 
+IR007;Requested load
+IR008;Present capacity
+IR010;OCT 1.1 sensor value 
+IR011;LP 1.1 transducer value 
+IR012;HP 1.1 transducer value 
+IR013;CST 1.1 sensor value 
+IR014;CDT 1.1 sensor value 
+IR016;AC FAN 1.1 Status
+IR018;Evaporation temperature 1.1 value 
+IR019;Condensing temperature 1.1 value 
+IR020;OCT 2.1 sensor value 
+IR021;LP 2.1 transducer value
+IR022;HP 2.1 transducer value
+IR023;CST 2.1 sensor value
+IR024;CDT 2.1 sensor value 
+IR026;AC FAN 2.1 status
+IR028;Evaporation temperature 2.1 value
+IR029;Condensing temperature 2.1 value
+IR030;Alarm number
+IR031;Calculated Cooling mode setpoint
+IR032;Calculated Heating mode setpoint 
+IR033;Modulating Fan 1.1 Speed 
+IR034;Modulating Fan 2.1 Speed 
+IR035;Modulating Pump speed 
+IR038;Pump 1 status (Double Pump)
+IR039;Pump 2 status (Double pump)
+IR040;Pump 1 status (Simple Pump) 
+IR041;DHWT sensor value 
+IR042;Operating Hour Compressor 1.1 
+IR043;Operating Hour Compressor 1.2 
+IR044;Operating Hour Compressor 2.1
+IR045;Operating Hour Compressor 2.2 
+HR001;Remote operating status
+HR002;Remote operating mode
+HR003;Cooling mode setpoint 
+HR004;Heating mode setpoint 

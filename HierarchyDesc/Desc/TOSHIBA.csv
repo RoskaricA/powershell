@@ -1,0 +1,42 @@
+HR8033;Outdoor temp monitor 
+HR8034;Run/ Stop state monitor 
+HR8035;Operating mode monitor
+HR8036;Cooling temperature setpoint monitor 
+HR8037;Heating temperature setpoint monitor
+HR8038;Demand response status monitor 
+HR8039;Demand response control 
+HR8040;Entering water Temperature 
+HR8041;Leaving water Temperature 
+HR8042;Returning water Temperature 
+HR8043;Supplying water Temperature 
+HR8044;Entering Hot water Temperature 
+HR8045;Leaving Hot water Temperature 
+HR0101;UC operating mode
+HR0102;RUN/STOP
+HR0103;Unit operating mode
+HR0104;Loading capacity ratio
+HR0105;Entering water temperature
+HR0106;Leaving water temperature 
+HR0107;Entering hot water temperature 
+HR0108;Leaving hot water temperature
+HR0109;Water flow rate
+HR0110;Alert state
+HR0111;Check code
+HR0112;Defrost operation state
+HR0113;High side pressure(Ackt)
+HR0114;Low side pressure(Ackt)
+HR0115;Integrated running hours of compressor(Ackt) 
+HR0116;Start-up counter of compressor (Ackt) 
+HR0117;High side pressure(Bckt)
+HR0118;Low side pressure(Bckt)
+HR0119;Integrated running hours of compressor(Bckt) 
+HR0120;Start-up counter of compressor (Bckt) 
+HR0121;High side pressure(Cckt)
+HR0122;Low side pressure(Cckt)
+HR0123;Integrated running hours of compressor(Cckt) 
+HR0124;Start-up counter of compressor (Cckt) 
+HR0125;High side pressure(Dckt)
+HR0126;Low side pressure(Dckt)
+HR0127;Integrated running hours of compressor(Dckt) 
+HR0128;Start-up counter of compressor (Dckt) 
+

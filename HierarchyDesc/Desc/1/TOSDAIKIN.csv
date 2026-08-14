@@ -1,0 +1,53 @@
+HR0001;Local/Network Source
+HR0005;Unit general alarm
+HR0006;EvapFlowSwitchStatus
+HR0007;CondFlowSwitchStatus
+HR0008;Thermoregulation State
+HR0009;Unit Enable Setpoint - Network
+HR0011;Operation Mode
+HR0012;Active Setpoint 
+HR0013;Actual Capacity 
+HR0014;Active Capacity Limit Output
+HR0015;Status
+HR0016;Evaporator Entering Water Temp
+HR0017;Evaporator Leaving Water Temp 
+HR0018;Heat Recovery - Enable Setpoint
+HR0019;Condenser Entering Water Temp
+HR0020;Condenser Leaving Water Temp
+HR0028;Active Warn Index
+HR0029;Problem Alarm Index
+HR0030;Fault Alarm Index
+HR0031;Warning Alarm Code
+HR0032;Problem Alarm Code
+HR0033;Fault Alarm Code
+HR0034;Operation Mode Setpoint – Network 
+HR0035;Cool Setpoint - Network
+HR0037;Heat Setpoint - Network
+HR0039;Circuit #1 - CondRefrigPress
+HR0040;Circuit #1 - CondSatRefrigTemp
+HR0041;Circuit #1 - EvapRefrigPress 
+HR0042;Circuit #1 - EvapSatRefrigTemp 
+HR0065;Circuit #1 – Suction Temperature
+HR0074;Circuit #1 Comp #1 - Run Hours 
+HR0081;Circ 1 Compressor 2 - Discharge Temperature
+HR0087;Circuit #1 Comp #2 - Run Hours
+HR0101;Evap Pump Status
+HR0102;Evap Pump Run Hours
+HR0104;Circ 2 Compressor 1 - Suction Temperature 
+HR0106;Circ 2 - Discharge Temperature
+HR0120;Circ 2 Compressor 2 - Discharge Temperature
+HR0121;CondPump1Status
+HR0122;CondPump1RunHours 
+HR0303;Evaporator Pump #1 Run Hours
+HR0305;Evaporator Pump #1 Status
+HR0552;Circuit #1 - OFFEvapPressSen
+HR0880;CmnEvap LWT Senf
+HR0881;CmnCond LWT Senf  
+HR1103;CmnEvap LWT
+HR1104;CmnCond LWT
+HR1827;Circuit #1 Comp #2 - OffAuto 
+HR1838;Circuit #1 Comp #2 – Status
+HR1841;Circuit #1 Comp #1 - OffAuto 
+HR1852;Circuit #1 Comp #1 – Status
+HR1982;Circuit #1 - EvapEXVPosition
+HR1986;Circuit #1 - OutdoorFanSpeed 

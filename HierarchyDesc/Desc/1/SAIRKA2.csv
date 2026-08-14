@@ -1,0 +1,50 @@
+HR025;Protizaledenitvena temperatura
+HR109;Kontrolni signal ogrevanje/hlajenje DX1 krog1
+HR057;Kontrolni signal toplotni izmenjevalec
+HR059;Kontrolni signal ogrevanje sekvenca 1
+HR061;Kontrolni signal ogrevanje sekvenca 2
+HR013;Filter dovodni zrak - tlak
+HR015;Filter odvodni zrak - tlak
+HR069;Kontrolni signal hlajenje sekvenca 1
+HR001;Dovodni ventilatorji tlak
+HR051;Kontrolni signal dovodni ventilator
+HR003;Pretok dovodni ventilatorji
+HR005;Tlak odvodni ventilatorji 
+HR053;Kontrolni signal odvodni ventilator
+HR007;Pretok odvodni ventilatorji
+HR017;Zunanja temperatura
+HR019;Dovodna temperatura
+HR021;Odvodna temperatura
+HR245;Rezim delovanja
+HR301;Aktualna zelena vrednost temperatura hlajenje 
+HR299;Aktualna zelena vrednost temperatura ogrevanje 
+HR257;Aktualna zelena vrednost dovodni pretok
+HR259;Aktualna zelena vrednost odvodni pretok 
+HR249;Zelena vrednost dovodni pretok Komfort w
+HR251;Zelena vrednost dovodni pretok Eko w
+HR253;Zelena vrednost odvodni pretok Komfort w
+HR255;Zelena vrednost odvodni pretok Eko w
+HR327;Maksimalna dovodna temp. w
+HR325;Minimalna dovodna temp. w
+HR293;Zelena vrednost temperatura ogrevanje Eko w
+HR291;Zelena vrednost temperatura ogrevanje Komfort w
+HR295;Zelena vrednost temperatura hlajenje Komfort w
+HR297;Zelena vrednost temperatura hlajenje Eko w
+HR243;Zahtevani rezim delovanja w
+IR013;Odtaljevanje DX1 krog1
+IR024;Alarm DX1 krog1
+IR120;Vklop/izklop ogrevanje DX1 krog1
+IR125;Vklop/izklop hlajenje DX1 krog1 
+IR130;Vklop/izklop DX1 krog1
+IR004;Dovodni ventilator alarm
+IR005;Odvodni ventilator alarm
+IR100;Zunanje zaluzije
+IR105;Vklop/izklop grelnik sekvenca 1
+IR028;Alarm el.grelnik sekvenca 2  DODATNO
+IR106;Vklop/izklop grelnik sekvenca 2
+IR110;Vklop/izklop hlajenje sekvenca 1
+IR001;Pozarni alarm
+IR002;Zunanji izklop
+IR167;Skupni alarm
+IR101;Vklop/izklop dovodni ventilator
+IR102;Vklop/izklop odvodni ventilator

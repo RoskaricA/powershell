@@ -1,0 +1,61 @@
+HR0001;Chiller Local/Remote 
+HR0005;Alarm Digital Output
+HR0008;Chiller On/Off
+HR0011;Chiller Mode Output 
+HR0012;Active Setpoint 
+HR0013;Actual Capacity 
+HR0014;Active Capacity Limit Output 
+HR0015;Chiller Status (Chiller Run Mode) 
+HR0016;Evaporator Entering Fluid Temperature 
+HR0017;Evaporator Leaving Fluid Temperature 
+HR0019;Condenser Entering Water Temp
+HR0020;Condenser Leaving Water Temp
+HR0024;Outdoor Air Temp 
+HR0025;Chiller Current 
+HR0028;Warning Alarm Index 
+HR0029;Problem Alarm Index 
+HR0030;Fault Alarm Index 
+HR0031;Warning Alarm Code
+HR0032;Problem Alarm Code 
+HR0033;Fault Alarm Code 
+HR0035;Cool Setpoint - Network
+HR0038;Capacity Limit Setpoint - Network
+HR0039;Circuit #1 - Condenser Refrigerant Pressure 
+HR0040;Circuit #1 - Condenser Saturated Refrigerant Temp
+HR0041;Circuit #1 - Evaporator Refrigerant Pressure 
+HR0042;Circuit #1 - Evaporator Saturated Refrigerant Temp
+HR0043;Circuit #2 - Condenser Refrigerant Pressure 
+HR0044;Circuit #2 - Condenser Saturated Refrigerant Temp
+HR0045;Circuit #2 - Evaporator Refrigerant Pressure 
+HR0046;Circuit #2 - Evaporator Saturated Refrigerant Temp
+HR0065;Circuit #1 - Suction Refrigerant Temp 
+HR0068;Circuit #1 Comp #1 - Discharge Refrigerant Temp 
+HR0074;Circuit #1 Comp #1 - Run Hours 
+HR0087;Circuit #1 Comp #2 - Run Hours
+HR0100;Circuit #1 Comp #3 - Run Hours
+HR0107;Circuit #2 Comp #1 - Discharge Refrigerant Temp 
+HR0113;Circuit #2 Comp #1 - Run Hours
+HR0126;Circuit #2 Comp #2 - Run Hours
+HR0139;Circuit #2 Comp #3 - Run Hours
+HR0303;Evaporator Pump #1 Run Hours
+HR0305;Evaporator Pump #1 Status 
+HR0306;Evaporator Pump #2 Run Hours
+HR0308;Evaporator Pump #2 Status
+HR1786;Circuit #2 Comp #3 - Status
+HR1799;Circuit #2 Comp #2 - Status
+HR1800;Circuit #2 Comp #1 - Actual Capacity 
+HR1812;Circuit #2 Comp #1 - Status 
+HR1825;Circuit #1 Comp #3 - Status
+HR1838;Circuit #1 Comp #2 - Status
+HR1840;Circuit #1 Comp #1 - Actual Capacity 
+HR1852;Circuit #1 Comp #1 - Status 
+HR1966;Circuit #2 - EXV Position
+HR1970;Circuit #2 - Outdoor Fan Speed 
+HR1971;Circuit #2 - Condenser Approach Temp
+HR1972;Circuit #2 - Evaporator Approach Temp 
+HR1981;Circuit #2 - Outdoor Fan Status
+HR1982;Circuit #1 - EXV Position
+HR1986;Circuit #1 - Outdoor Fan Speed 
+HR1987;Circuit #1 - Condenser Approach Temp
+HR1988;Circuit #1 - Evaporator Approach Temp 
+HR1997;Circuit #1 - Outdoor Fan Status

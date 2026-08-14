@@ -1,0 +1,40 @@
+HR0001;ON/OFF status
+HR0100;Operation mode selection
+HR0101;Comfort1: Supply flow 
+HR0103;Comfort1: Extract flow
+HR0105;Comfort1: Setpoint  temperature
+HR0106;Comfort2: Supply flow
+HR0108; Comfort2: Extract flow 
+HR0110;Comfort2: Setpoint temperature
+HR0111;Economy1: Supply flow 
+HR0113;Economy1: Extract flow
+HR0115;Economy1: Setpoint  temperature
+HR0116;Economy2: Supply flow 
+HR0117;Economy2: Extract flow
+HR0120; Economy2: Setpoint  temperature
+HR1000;Active alarms count
+HR1001;Active alarm 1 code 
+HR1002;.MBK1.HR1002
+HR1003;.MBK1.HR1003
+HR2000;0-Stop, 1-Enabled but fans are stopped, 2-Running
+HR2001;Current mode 
+HR2002;Current supply flow
+HR2004;Current exhaust flow
+HR2006;Supply temperature
+HR2007;Extract Temperature
+HR2008;Outdoor temp
+HR2009;Current exhaust
+HR2010;Current return water 
+HR2016;Water heater
+HR2017;Water cooler
+HR2019;Heat exchanger
+HR2020;Recirculation level
+HR2021;Current supply fan intensivity
+HR2022;Current extract fan intensivity
+HR2023;Outdoor air damper
+HR2026;Heat pump level
+HR2027;DX unit
+HR2032; Current temp. setpoint
+HR2033;Current supply air setpoint
+HR2036; Current supply flow setpoint
+HR2037; Current extract flow setpoint

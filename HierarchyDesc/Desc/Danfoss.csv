@@ -1,0 +1,19 @@
+HR1603;Status Word
+HR1605;Main Actual Value [%]
+HR1500;Operating Hours
+HR1501;Running Hours
+HR1602;Reference %
+HR1622;Torque [%]
+HR1610;Power [kW]
+HR1612;Motor Voltage
+HR1613;Frequency
+HR1614;Motor Current
+HR1615;Frequency [%]
+HR1616;Torque [Nm]
+HR1617;Speed [RPM]
+HR1619;KTY sensor temperature
+HR1690;Alarm Word
+HR1691;Alarm Word 2
+HR1692;Warning Word
+HR1693;Warning Word 2
+HR1502;kWh Counter

@@ -1,0 +1,30 @@
+IR201;Pump status register block
+IR202;Actual process feedback from the E-pump
+IR203;Actual control mode
+IR204;Actual operating mode
+IR205;The Grundfos-specific alarm code
+IR206;The Grundfos-specific warning code
+IR212;Nominal pump frequency
+IR213;Minimum pump frequency in % of nominal frequency
+IR214;Maximum pump frequency in % of nominal frequency
+IR215;Minimum value of setpoint range in % of sensor maximum value
+IR216;Maximum value of setpoint range in % of sensor maximum value
+IR301;Actual system head/pressure
+IR302;Actual system flow
+IR303;Performance relative to maximum performance
+IR304;Motor speed 
+IR305;Actual control signal applied to motor 
+IR308;Actual setpoint
+IR309;Actual motor current 
+IR311;Motor voltage
+IR312;Total power consumption of the system
+IR315;System inlet pressure, relative to atmospheric pressure
+IR316;Measured pressure 1 at external sensor-relative to atmospheric pressure 
+IR320;Temperature 1 at external sensor
+IR327;Total operating time of the system
+IR329;Total power-on time of the system 
+IR332;Total energy consumption of the system
+IR334;Number of times the E-pump has been started 
+
+
+

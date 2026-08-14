@@ -1,0 +1,64 @@
+HR008;Remote on/off control 
+HR010;Summer/Winter mode changeover
+IR017;Actual operating mode 
+IR021;Actual time scheduler state
+IR025;Fresh air damper command 
+IR028;Supply fan command 
+IR029;Supply fan output signal 
+IR030;Return fan command 
+IR031;Return fan output signal 
+IR032;Fresh air damper output signal 
+IR033;Cooling coil output signal 
+IR034;Cooling pump command 
+IR036; Recovery output signal 
+IR037;Recovery command 
+IR038;Mixing damper output signal 
+IR040;Heating coil output signal 
+IR041;Heating pump command 
+IR060;Alarm output 
+IR072;Outside air temperature
+IR073;Supply air temperature 
+IR075;Room temperature 
+IR076;Return air temperature
+IR095; Supply air flow 
+IR096;Return air flow
+IR097;Supply air pressure
+IR098;Return air pressure
+IR104; Actual heating setpoint
+IR105; Actual cooling setpoint
+IR112; Actual Supply fan setpoint
+IR113;Actual Return fan setpoint 
+IR112P; Actual Supply fan setpoint
+IR113P;Actual Return fan setpoint 
+IS001;Alarm class Danger alarm (A) status
+IS002;Alarm class Critical alarm (A) status 
+IS003;Alarm class Low alarm (B) status
+IS004;Alarm class Warning alarm (C) status
+IS011;Emergency stop status
+IS012;Standby mode status
+IS027;Supply fan alarm 
+IS030;Return fan alarm 
+IS038;Cooling pump alarm 
+IS040;Recovery alarm 
+IS045;Heating pump alarm 
+IS047;Frost switch alarm 
+IS070;Filter alarm [Modular]
+IS071;Supply filter alarm [Professional/Light] 
+IS072;Return filter alarm [Professional/Light] 
+IS073;Fire alarm
+HR050;Supply fan setpoint 
+HR051;Supply fan economy setpoint
+HR054;Return fan setpoint 
+HR055;Return fan economy setpoint 
+HR022;Heating temperature setpoint 
+HR023;Cooling temperature setpoint
+HR026;Economy heating temperature setpoint
+HR027;Economy cooling temperature setpoint
+HR034;Min Supply Temperature Summer 
+HR035;Max Supply Temperature Summer
+HR281;Min Supply Temperature Winter 
+HR282;Max Supply Temperature Winter 
+HR277;Supply Fan Running Hours L
+HR278;Supply Fan Running Hours H
+HR279;Return Fan Running Hours L
+HR280;Return Fan Running Hours H

@@ -1,0 +1,16 @@
+IR001;Pressure
+IR002;Flow (estimated)
+IR003;Energy Consumption
+IR004;power input
+IR005;Operation Time
+IR006;Electrical Current
+IR007;Speed
+IR008;temperature fluid @ device
+IR010;Control Function
+IR036;Error Type
+IR037;Error Message
+IR038;Pump Status
+IR400;duty point (rel.)
+IR402;Effective Pump Command
+IR404;Operation Status
+IR940;Warning/Error Message

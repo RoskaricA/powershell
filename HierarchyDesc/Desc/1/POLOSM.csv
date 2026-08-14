@@ -1,0 +1,69 @@
+HR025;Protizaledenitvena temperatura
+HR001;Dovodni ventilatorji tlak
+HR003;Pretok dovodni ventilatorji
+HR005;Tlak odvodni ventilatorji 
+HR007;Pretok odvodni ventilatorji
+HR013;Filter dovodni zrak - tlak
+HR015;Filter odvodni zrak - tlak
+HR017;Zunanja temperatura
+HR019;Dovodna temperatura
+HR021;Odvodna temperatura
+HR031;Protizmrzovalna temperatura grelnik sekvenca 2
+HR041;Dovodna relativna vlaga
+HR043;Odvodna relativna vlaga
+HR051;Kontrolni signal dovodni ventilator
+HR053;Kontrolni signal odvodni ventilator
+HR057;Kontrolni signal toplotni izmenjevalec
+HR059;Kontrolni signal ogrevanje sekvenca 1
+HR061;Kontrolni signal ogrevanje sekvenca 2
+HR069;Kontrolni signal hlajenje sekvenca 1
+HR109;Kontrolni signal ogrevanje/hlajenje DX1 krog1
+HR159;Kanalski tlak dovod
+HR160;Kanalski tlak odvod
+HR179;Kontrolni signal vlaženje
+HR243;Zahtevani režim delovanja
+HR245;Režim delovanja
+HR285;Nastavitva Comfort dovodni kanal
+HR286;Nastavitva Eko dovodni kanal
+HR287;Nastavitva Comfort odvodni kanal
+HR288;Nastavitva Eko odvodni kanal
+HR289;Dejanska nastavitva dovodni kanal
+HR290;Dejanska nastavitva odvodni kanal
+HR291;Želena vrednost temperatura ogrevanje Komfort
+HR293;Želena vrednost temperatura ogrevanje Eko
+HR295;Želena vrednost temperatura hlajenje Komfort
+HR297;Želena vrednost temperatura hlajenje Eko
+HR299;Aktualna želena vrednost temperatura ogrevanje 
+HR301;Aktualna želena vrednost temperatura hlajenje 
+HR325;Minimalna dovodna temp.
+HR327;Maksimalna dovodna temp.
+HR333;Absolutna dovodna vlaga
+HR335;Absolutna odvodna vlaga
+HR339;Entalpija dovodni zrak
+HR341;Entalpija odvodni zrak
+HR343;Želena vrednost vlaženje Komfort 
+HR345;Želena vrednost vlaženje Eko
+HR347;Želena vrednost razvlaževanje Komfort
+HR349;Želena vrednost razvlaževanje Eko
+HR351;Aktualna želena vrednost vlaženje 
+HR353;Aktualna želena vrednost razvlaževanje
+HR365;Minimalna dovodna vlaga
+HR367;Maksimalna dovodna vlaga
+IR001;Požarni alarm
+IR002;Zunanji izklop
+IR004;Dovodni ventilator alarm
+IR005;Odvodni ventilator alarm
+IR013;Odtaljevanje DX1 krog1
+IR024;Alarm DX1 krog1
+IR033;Vlaženje Alarm
+IR100;Zunanje žaluzije
+IR101;Vklop/izklop dovodni ventilator
+IR102;Vklop/izklop odvodni ventilator
+IR105;Vklop/izklop grelnik sekvenca 1
+IR106;Vklop/izklop grelnik sekvenca 2
+IR110;Vklop/izklop hlajenje sekvenca 1
+IR120;Vklop/izklop ogrevanje DX1 krog1
+IR125;Vklop/izklop hlajenje DX1 krog1 
+IR130;Vklop/izklop DX1 krog1
+IR165;Vklop/izklop vlažilnik
+IR167;Skupni alarm

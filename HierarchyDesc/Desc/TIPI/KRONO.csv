@@ -1,0 +1,83 @@
+IR00;Temperatura T1 uprava ogrevanje povratek
+IR01;Temperatura T2 proizvodnja ogrevanje povratek
+IR02;Temperatura T3 skladisce ogrevanje povratek
+IR03;Temperatura T4 uprava hlajenje povratek
+IR04;Temperatura T5 proizvodnja hlajenje povratek
+IR05;Temperatura T6 predtok razdelilec ogrevanje
+IR06;Temperatura T7 predtok razdelilec hlajenje
+IR07;Temperatura T8 zalogovnik ogrevanje
+IR08;Temperatura T9 zalogovnik hlajenje
+IR11;Temperatura T12 geosonda predtok
+IR12;Temperatura T13 geosonda povratek
+IR16;Uporabljena zunanja temperatura
+IR17;Tlak hladna stran
+IR18;Tlak topla stran
+IR20;TC1: Temperatura povratnega voda
+IR21;TC1: Temperatura dviznega voda
+IR22;TC1: Temperatura vstopa toplotnega vira
+IR23;TC1: Temperatura izstopa toplotnega vira
+IR24;TC1: Obratovalne ure
+IR30;TC2: Temperatura povratnega voda
+IR31;TC2: Temperatura dviznega voda
+IR32;TC2: Temperatura vstopa toplotnega vira
+IR33;TC2: Temperatura izstopa toplotnega vira
+IR34;TC2: Obratovalne ure
+C00;Vklop delovanja sistema
+C01;Vklop ogrevanja toplega zalogovnika
+C02;Vklop hlajenja hladnega zalogovnika
+C03;Vklop veje C1 ogrevanje uprava
+C04;Vklop veje C2 ogrevanje proizvodnja
+C05;Vklop veje C3 ogrevanje skladisce
+C06;Vklop veje C4 hlajenje uprava
+C07;Vklop veje C5 hlajenje proizvodnja
+C10;"""Alive"" bit"
+DI00;Crpalka C1 uprava ogrevanje delovanje
+DI01;Crpalka C2 proizvodnja ogrevanje delovanje
+DI02;Crpalka C3 skladisce ogrevanje delovanje
+DI03;Crpalka C4 uprava hlajenje delovanje
+DI04;Crpalka C5 proizvodnja hlajenje delovanje
+DI05;Loputa ZL10.1 odprta
+DI06;Loputa ZL10.1 zaprta
+DI07;Loputa ZL10.2 odprta
+DI08;Loputa ZL10.2 zaprta
+DI09;Loputa ZL10.3 odprta
+DI10;Loputa ZL10.3 zaprta
+DI11;Loputa ZL10.4 odprta
+DI12;Loputa ZL10.4 zaprta
+DI13;Loputa ZL10.5 odprta
+DI14;Loputa ZL10.5 zaprta
+DI15;Loputa ZL10.6 odprta
+DI16;Loputa ZL10.6 zaprta
+DI20;Skupna motnja
+DI21;Skupno opozorilo
+DI22;Rocno vodenje
+DI23;CNS vodenje omogoceno
+DI24;Izpad tipal
+DI25;Krmilna napetost 24VDC izpad
+DI26;Prenapetostna zascita napaka
+DI27;Krmilna napetost 230VAC izpad
+DI30;TC1: Napaka TC
+DI31;TC1: Napaka komunikacije TC
+DI32;TC1: Status toplotne crpalke izklop / vklop
+DI33;TC1: Status delovanja kompresor 1
+DI34;TC1: Status delovanja kompresor 2
+DI35;TC1: Status delovanja obtocne crpalke na topli strani TC
+DI36;TC1:Status delovanje obtocne crpalke na hladni strani TC (toplotnega vira
+DI40;TC2: Napaka TC
+DI41;TC2: Napaka komunikacije TC
+DI42;TC2: Status toplotne crpalke izklop / vklop
+DI43;TC2: Status delovanja kompresor 1
+DI44;TC2: Status delovanja kompresor 2
+DI45;TC2: Status delovanja obtocne crpalke na topli strani TC
+DI46;TC2:Status delovanje obtocne crpalke na hladni strani TC (toplotnega vira
+DI50;TC3: Napaka TC
+DI51;TC3: Napaka komunikacije TC
+DI52;TC3: Status toplotne crpalke izklop / vklop
+DI53;TC3: Status delovanja kompresor 1
+DI54;TC3: Status delovanja kompresor 2
+DI55;TC3: Status delovanja obtocne crpalke na topli strani TC
+DI56;TC3:Status delovanje obtocne crpalke na hladni strani TC (toplotnega vira
+HR00;Zelena vrednost temperature dovoda zalogovnika ogrevanja (T8)
+HR01;Zelena vrednost temperature zalogovnika hlajenja (T9)
+
+

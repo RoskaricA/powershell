@@ -1,0 +1,89 @@
+
+
+CR0000;Acknowledge all alarms 
+IS0000;Sum alarm: Unacknowledged A-, B- or C-alarm 
+IS0001;Sum alarm: Unacknowledged A-alarm
+IS0002;Sum alarm: Unacknowledged B-alarm
+IS0003;Sum alarm: Unacknowledged C-alarm
+IS0210;SEQ-A pump heating start 
+IS0212;SEQ-c pump cooling start 
+IS0220;Supply air fan start 
+IS0221;Extract air fan start 
+IR0030;Actual value outdoor temperature
+IR0031;Actual value intake air temperature
+IR0032;Actual value supply air temperature
+IR0033;Actual value exhaust air temperature
+IR0034;Actual value extract air temperature
+IR0039;Actual value supply air pressure
+IR0040;Actual value extract air pressure
+IR0043;Actual value freeze protection temperature 1
+IR0055;Actual value supply air filter pressure
+IR0056;Actual value extract air filter pressure
+IR0110;Actual value supply air flow
+IR0112;Actual value extract air flow
+IR0166;Actual value heating SEQ-A 
+IR0167;Actual value exchanger SEQ-B
+IR0168;Actual value cooling SEQ-C
+IR0178;Actual value supply air fan
+IR0179;Actual value extract air fan
+IR0200;Calculated temperature efficiency exchanger 
+IR0201;Actual unit mode
+IR0202;Indicates what is triggering the current run mode
+IR0234;Actual setpoint supply air temperature
+IR0235;Actual setpoint supply air fan
+IR0236;Actual setpoint extract air fan
+IR0283;Actual SFP
+IR0284;Average SFP (day)
+IR0285;Average SFP (30 days)
+IR0716;Alarm 2085 freeze protection temperature
+IR0754;Alarm 3075 internal battery error 
+IR0755;Alarm 3080 communication fault with device 
+IR0756;Alarm 3090 internal error
+IR0761;Alarm 3020 malfunction sequence-A 
+IR0763;Alarm 3030 malfunction sequence-C
+IR0776;Alarm 3070 rotary exchanger alarm 
+IR0782;Alarm 1000 filter guard supply air 
+IR0783;Alarm 1005 filter guard extract air 
+IR0784;Alarm 1070 low efficiency exchanger
+IR0797;Alarm 1080 deviation supply air temperature
+IR0810;Alarm 6010 fire alarm 
+IR0834;Alarm 1015 deviation supply air fan
+IR0835;Alarm 1020 deviation extract air fan
+IR0836;Alarm 7015 service stop
+IR0837;Alarm 7020 warning freeze protection
+IR0847;Alarm 1060 defrosting guard exchanger
+IR0856;Alarm 1105 defrosting alarm
+IR0857;Alarm 3145 malfunction supply air fan
+IR0858;Alarm 3150 malfunction extract air fan
+
+HR0510;External control
+
+HR0521;Temperature control type
+HR0522;Temperature setpoint according control type: supply air 
+HR0523;Temperature setpoint according control type: extract air
+HR0524;Temperature setpoint cascade control: max limit supply air 
+HR0525;Temperature setpoint cascade control: min limit supply
+
+HR0536;Fan level air pressure setpoint: supply low speed
+HR0537;Fan level air pressure setpoint: supply normal speed
+HR0538;Fan level air pressure setpoint: supply high speed
+HR0539;Fan level air pressure setpoint: extract low speed
+HR0540;Fan level air pressure setpoint: extract normal speed 
+HR0541;Fan level air pressure setpoint: extract high speed 
+
+HR0585;Temperature setpoint according control type: room temperature
+HR0586;Alarm limit freeze protection 1 
+HR0587;Temperature setpoint according control type: freeze protection 1 if standby
+ 
+HR0600;Alarm low limit exchanger efficiency 
+
+HR0660;Temperature setpoint: supply air temperature summer 
+
+HR0666;Outdoor temperature sent from BMS system
+
+HR0900;Fan level air flow setpoint: supply low speed
+HR0902;Fan level air flow setpoint: supply normal speed
+HR0904;Fan level air flow setpoint: supply high speed
+HR0906;Fan level air flow setpoint: extract low speed
+HR0908;Fan level air flow setpoint: extract normal speed
+HR0910;Fan level air flow setpoint: extract high speed

@@ -1,0 +1,69 @@
+HR001;SUW - Evap. outlet temp. 1
+HR002;SIW - Evap. inlet temp. 1
+HR005;SUR1 - Circ.1 recovery outlet temp.
+HR006;SIR - Recovery inlet temp. 
+HR007;TAP1 - Circ.1 high pressure 
+HR008;TBP1 - Circ.1 low pressure
+HR009;TAP2 - Circ.2 high pressure
+HR010;TBP2 - Circ.2 low pressure
+HR011;TAE - External air temp. 1
+HR012;TGP1 - Pressing line gas temp. circ.1 
+HR013;TGP2 - Pressing line gas temp. circ.2
+HR014;SL1 - Liquid temp. circ.1
+HR015;SL2 - Liquid temp. circ.2 
+HR204;Set point 1, summer
+HR205;Set point 2, summer 
+HR206;Set point 1, winter
+HR207;Set point 2, winter
+HR209;Mode On/Off system (1=ON,2=Set2,3=FROM BANDS) 
+HR211;Summer/winter selection (0=SUMMER,1=WINTER,2=From ext. temp.,3= From DIN,4= From BMS, 5=From Calendar)
+HR214;Plant active power (0...100) 
+HR215;Recovery active power (0...100)
+HR234;Fan speed 1 (0..100%)
+HR235;Fan speed 2 (0..100%)
+HR236;Fan speed 3 (0..100%)
+CR001;Unit On/Off 
+CR002;Summer/Winter request from Supervisor
+CR003;Reset alarms (1= reset)
+CR007;Summer/Winter status
+CR010;Plant On/Off 
+CR030;Pump 1 evaporator
+CR031;Pump 2 evaporator
+CR034;Recovery pump 1
+CR036;CCP1 - Compressor 1 circ.1
+CR037;CP1A - Compressor 2 circ.1
+CR038;CCP1B - Compressor 3 circ.1
+CR039;CCP2 - Compressor 1 circ.2
+CR040;CCP2A - Compressor 2 circ.2 
+CR041;CCP2B - Compressor 3 circ.2
+CR042;CV - Fan 1
+CR043;CV1 - Fan 2
+AL100;Sum of all alarms
+AL101;AL38 - evaporator flow meter alarm 
+AL102;AL39 - recovery flow meter alarm
+AL103;AL24 - Evaporator pump 1 circuit breaker alarm 
+AL104;AL25 - Evaporator pump 2 circuit breaker alarm 
+AL107;AL26 - Recovery pump 1 circuit breaker alarm 
+AL108;AL27 - Recovery pump 2 circuit breaker alarm 
+AL115;AL28 - Fan 1 circuit breaker alarm
+AL116;AL29 - Fan 2 circuit breaker alarm
+AL117;AL40 - Evap. antifreeze alarm
+AL121;AL31 - Circ.1 low pressure alarm
+AL122;AL65 - Circ.2 low pressure alarm
+AL123;AL34 - Circ.1 critical low pressure alarm
+AL124;AL35 - Circ.2 critical low pressure alarm 
+AL125;AL32 - Circ.1 high pressure gauge alarm
+AL126;AL66 - Circ.2 high pressure gauge alarm 
+AL127;AL33 - Circ.1 high pressure alarm
+AL128;AL67 - Circ.2 high pressure alarm 
+AL129;AL03 - Phase monitor alarm 
+AL169;AL23- Compressor 1 circ.1 circuit breaker alarm
+AL170;AL59- Compressor 2 circ.1 circuit breaker alarm 
+AL171;AL60- Compressor 3 circ.1 circuit breaker alarm
+AL172;AL61- Compressor 1 circ.2 circuit breaker alarm
+AL173;AL62- Compressor 2 circ.2 circuit breaker alarm
+AL174;AL63- Compressor 3 circ.2 circuit breaker alarm
+AL176;AL11 - Com. evap. outlet faulty probe alarm
+AL184;AL75 - Circ.1 pressing line gas high temp. alarm
+AL185;AL76 - Circ.2 pressing line gas high temp. alarm
+AL190;AL85 - High Plant temperature 

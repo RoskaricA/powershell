@@ -1,0 +1,38 @@
+HR002;Enabled State ;TC;TC.HR002;HR002:Enabled State 
+HR004;Capacity Limited ;TC;TC.HR004;HR004:Capacity Limited 
+HR005;Unit general alarm;TC;TC.HR005;HR005:Unit general alarm
+HR009;Unit Enable Setpoint - Network  *W;TC;TC.HR009;HR009:Unit Enable Setpoint - Network  *W
+HR010;Clear Alarms – Network  *W;TC;TC.HR010;HR010:Clear Alarms – Network  *W
+HR011;Operation Mode;TC;TC.HR011;HR011:Operation Mode
+HR012;Active Setpoint ;TC;TC.HR012;HR012:Active Setpoint 
+HR013;Actual Capacity  ;TC;TC.HR013;HR013:Actual Capacity  
+HR015; Status;TC;TC.HR015;HR015: Status
+HR016;Evaporator Entering Water Temp ;TC;TC.HR016;HR016:Evaporator Entering Water Temp 
+HR017;Evaporator Leaving Water Temp Unit ;TC;TC.HR017;HR017:Evaporator Leaving Water Temp Unit 
+HR024;Outdoor Air Temperature;TC;TC.HR024;HR024:Outdoor Air Temperature
+HR031;Warning CODE ;TC;TC.HR031;HR031:Warning CODE 
+HR032;Problem CODE ;TC;TC.HR032;HR032:Problem CODE 
+HR033;Fault CODE  ;TC;TC.HR033;HR033:Fault CODE  
+HR034;Operation Mode Setpoint – Network  *W ;TC;TC.HR034;HR034:Operation Mode Setpoint – Network  *W 
+HR035;Cool Setpoint – Network *W;TC;TC.HR035;HR035:Cool Setpoint – Network *W
+HR037;Heat Setpoint – Network *W;TC;TC.HR037;HR037:Heat Setpoint – Network *W
+HR062;Defrost - Operating State*;TC;TC.HR062;HR062:Defrost - Operating State*
+HR266;Monhtly Cooling Capacity ;TC;TC.HR266;HR266:Monhtly Cooling Capacity 
+HR268;Monthly Power Input;TC;TC.HR268;HR268:Monthly Power Input
+HR285;Monhtly Heating Capacity ;TC;TC.HR285;HR285:Monhtly Heating Capacity 
+HR288;External Alarm ;TC;TC.HR288;HR288:External Alarm 
+HR300;Circuit #1 State ;TC;TC.HR300;HR300:Circuit #1 State 
+HR321;Circuit #1 Comp #1 – Status ;TC;TC.HR321;HR321:Circuit #1 Comp #1 – Status 
+HR322;Circuit #1 Comp #1 – Starts ;TC;TC.HR322;HR322:Circuit #1 Comp #1 – Starts 
+HR323;Circuit #1 Comp #1 - Run Hours ;TC;TC.HR323;HR323:Circuit #1 Comp #1 - Run Hours 
+HR325;Circuit #1 Comp #1 - Actual Capacity ;TC;TC.HR325;HR325:Circuit #1 Comp #1 - Actual Capacity 
+HR400;Circuit #2 State ;TC;TC.HR400;HR400:Circuit #2 State 
+HR421;Circuit #2 Comp #1 – Status ;TC;TC.HR421;HR421:Circuit #2 Comp #1 – Status 
+HR422;Circuit #2 Comp #1 – Starts ;TC;TC.HR422;HR422:Circuit #2 Comp #1 – Starts 
+HR423;Circuit #2 Comp #1 - Run Hours ;TC;TC.HR423;HR423:Circuit #2 Comp #1 - Run Hours 
+HR425;Circuit #2 Comp #1 - Actual Capacity ;TC;TC.HR425;HR425:Circuit #2 Comp #1 - Actual Capacity 
+wHR009;Unit Enable Setpoint - Network  *W;TC;TC.wHR009;wHR009:Unit Enable Setpoint - Network  *W
+wHR010;Clear Alarms – Network  *W;TC;TC.wHR010;wHR010:Clear Alarms – Network  *W
+wHR034;Operation Mode Setpoint – Network  *W ;TC;TC.wHR034;wHR034:Operation Mode Setpoint – Network  *W 
+wHR035;Cool Setpoint – Network *W;TC;TC.wHR035;wHR035:Cool Setpoint – Network *W
+wHR037;Heat Setpoint – Network *W;TC;TC.wHR037;wHR037:Heat Setpoint – Network *W

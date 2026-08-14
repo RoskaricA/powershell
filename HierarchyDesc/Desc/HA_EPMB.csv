@@ -1,0 +1,54 @@
+AI0010;Active Cool/Heat Setpoint Temperature 
+AI0012;Status of the External Chilled Water Setpoint
+AI0014;Status of Front Panel Chilled Water setpoint
+AI0016;Active Demand Limit Setpoint
+AI0022;Evaporator Entering Water Temperature
+AI0024;Evaporator Leaving Water Temperature
+AI0026;Outdoor Air Temperature
+AI0030;Unit Source ID
+AI0036;Actual Running Capacity
+AI0040;Evaporator Refrigerant Pressure Circuit 1
+AI0042;Condenser Refrigerant Pressure Circuit 1
+AI0046;Evaporator Saturated Refrigerant Temperature Circuit 1
+AI0048;Condenser Saturated Refrigerant Temperature Circuit 1
+AI0052;Refrigerant Discharge Temperature - Compressor 1A
+AI0054;Oil Pressure - Compressor 1A
+AI0056;Starts - Compressor 1A
+AI0058;Run Time - Compressor 1A
+AI0062;Evaporator Refrigerant Pressure Circuit 2
+AI0064;Condenser Refrigerant Pressure Circuit 2
+AI0068;Evaporator Saturated Refrigerant Temperature Circuit 2
+AI0070;Condenser Saturated Refrigerant Temperature Circuit 2
+AI0074;Refrigerant Discharge Temperature - Compressor 2A
+AI0076;Oil Pressure - Compressor 2A
+AI0078;Refrigerant Discharge Temperature - Compressor 1B
+AI0080;Oil Pressure - Compressor 1B
+AI0082;Starts - Compressor 1B
+AI0084;Run Time - Compressor 1B
+AI0086;Starts - Compressor 2A
+AI0088;Run Time - Compressor 2A
+AI0090;Refrigerant Discharge Temperature - Compressor 2B
+AI0092;Oil Pressure - Compressor 2B
+AI0094;Starts - Compressor 2B
+AI0140;Unit Power Consumption
+AI0142;Energy Consumption Lifetime
+AI0242;Unit Load Command
+BI3010;Run Enable
+BI3013;Chiller Running State
+BI3014;Maximum Capacity
+BI3017;Evaporator Water Flow Status
+BI3019;Diagnostic Present
+BI3020;Diagnostic Shutdown Present
+BI3027;Compressor 1A Running Status
+BI3028;Compressor 1B Running Status
+BI3029;Compressor 2A Running Status
+BI3030;Compressor 2B Running Status
+BI3050;Circuit 1 Running Status
+BI3051;Circuit 2 Running Status
+MI2010;Running Mode
+MI2011;Operating Mode
+
+
+
+
+

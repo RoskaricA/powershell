@@ -1,0 +1,55 @@
+IO.M0.DI.AUTO.Val;AUTO-Automatsko delovanje
+IO.M0.DI.ROCNO.Val;ROCNO-Rocno delovanje
+IO.M0.Alm.U.Val;U-Izpad napetosti
+IO.M1.Alm.C3.Val;C3-Crp dovod odpadne toplote-motnja
+IO.M1.Alm.C4.Val;C4-Crp gr.sanitarne vode-motnja
+IO.M1.Alm.C5.Val;C5-Crp grelnik zraka-motnja
+IO.M1.Alm.C1.Val;C1-Crp hladilna greda-motnja
+IO.M3.Alm.HA1.Val;HA1-Hlad.agregat motnja
+IO.M3.DI.HA1.Val;HA1-Hlad.agregat delovanje
+IO.M3.Alm.HA2.Val;HA2-Hlad.agregat motnja
+IO.M3.DI.HA2.Val;HA2-Hlad.agregat delovanje
+IO.M4.Alm.C11.Val;C11-Crp hladilna greda-motnja
+IO.M4.Alm.DV.Val;DV-Dopolnjevanje vode-motnja
+IO.M0.DO.C3.Cmd;C3-Crp dovod odpadne toplote
+IO.M0.DO.C4.Cmd;C4-Crp gr.sanitarne vode
+IO.M0.DO.C5.Cmd;C5-Crp grelnik zraka
+IO.M0.DO.C1.Cmd;C1-Crp hladilna greda 1/2
+IO.M0.DO.C11.Cmd;C11-Crp hladilna greda 2/2
+IO.M0.DO.ALARM.Cmd;ALARM-Skupni alarm
+IO.M3.DO.HA1.Cmd;HA1-Hlad.agregat 1 vklop
+IO.M3.DO.HA2.Cmd;HA2-Hlad.agregat 2 vklop
+IO.M3.DO.HA1OE.Cmd;HA1OE-Hlad.agregat 1 odpadne energija
+IO.M3.DO.HA2OE.Cmd;HA2OE-Hlad.agregat 2 odpadna energija
+IO.M0.AI.B0Z.Val;B0Z-T.zunanja
+IO.M0.AI.B4.Val;B4-T.gr.san.vode
+IO.M0.AI.B51.Val;B51-T.grelnik zraka predtok
+IO.M0.AI.B31.Val;B31-T.grelnik zraka dovod iz TP
+IO.M0.AI.B32.Val;B32-T.grelnik zraka povratek
+IO.M0.AI.B41.Val;B41-T.grelnik zraka povratek na TP
+IO.M0.AI.B42.Val;B42-T.grelnik zraka povratek
+IO.M0.AI.TJ1.Val;TJ1-T.HA predtok
+IO.M0.AI.TJ2.Val;TJ2-T.HA povratek
+IO.M0.AI.B52.Val;B52-T.grelnik zraka povratek
+IO.M1.AI.BTS1.Val;BTS1-Tlak odpadna energija primar
+IO.M1.AI.BTS2.Val;BTS2-Tlak odpadna energija sekundar
+IO.M1.AI.BTS3.Val;BTS3-Tlak sistem hlajenja
+IO.M1.AI.BTRrH.Val;BTRrH-rel.vlaga zunanja
+IO.M1.AI.BTRT.Val;BTRT-T. zunanja
+IO.M2.AI.BOZ.Val;BOZ-T.topli akum.zgoraj
+IO.M2.AI.BOS.Val;BOS-T.topli akum.spodaj
+IO.M2.AI.BHZ.Val;BHZ-T.hlad.akum.zgoraj
+IO.M2.AI.BHS.Val;BHS-T.hlad.akum. spodaj
+IO.M2.AI.BHZ2.Val;BHZ2-T.hlad.akum.2 zgoraj
+IO.M2.AI.BHS2.Val;BHS2-T.hlad.akum.2 spodaj
+IO.M3.AI.TJ11.Val;TJ11-T.hlad.agregat predtok
+IO.M3.AI.TJ21.Val;TJ21-T.hlad.agregat povratek
+IO.M4.AI.TJ12.Val;TJ12-T.hlad.greda primar predtok
+IO.M4.AI.TJ22.Val;TJ22-T.hlad.greda primar povratek
+IO.M4.AI.TJ3.Val;TJ3-T.hlad.greda sekundar predtok
+IO.M4.AI.TJ4.Val;TJ4-T.hlad.greda sekundar povratek
+IO.M4.AI.TJ5.Val;TJ5-T.hlad.greda sek.pred.za ventilom
+IO.M4.AI.TJ6.Val;TJ6-T.hlad.greda sek.pov.za ventilom
+IO.M1.AO.M3.Cmd;M3-RV-grelnik zraka dovod iz TP
+IO.M1.AO.M4.Cmd;M4-RV-grelnik zraka povratek iz TP
+IO.M2.AO.YHG.Cmd;YHG-RV-hladilna greda

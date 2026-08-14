@@ -1,0 +1,18 @@
+IR020;Unit Count 
+IR021;Is Fault
+IR022;Fault Code
+IR023;Return Air Average
+IR024;Filter Alarm 
+IR025;Return Air Min
+IR026;Return Air Max
+IR030;Thermo On
+IR035;Defrost 
+IR050;RC Temperature
+IR051;RC Operation Mode
+HR001;Setpoint 
+HR002;Fanspeed
+HR003;Mode 
+HR004;Louvre 
+HR005;OnOff 
+HR030;Damper Control
+HR031;VAM Fanspeed
