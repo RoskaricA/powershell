@@ -1,3 +1,16 @@
+1.git log --oneline --graph --parents
+2.git status  
+3.git add .
+4.git status
+5.git commit -m "8:Writing help file for commits"
+6.git log --oneline --graph --parents 
+7.git remote add origin ttps://github.com/RoskaricA/powershell.git
+8.git remote -v 
+9.git log --oneline --graph --parents
+
+
+
+
 (starting point)
 git log --oneline --graph --parents
 

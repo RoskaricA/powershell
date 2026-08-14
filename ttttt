@@ -1,0 +1,22 @@
+working with branch
+
+1. to get actual main from GitHub
+git switch main
+git pull origin main
+2. create branch
+git switch -c add_help
+3. do change on main(local)
+4. stage : what to monitor
+git add .
+5. make a commit
+git commit -m "10: Add help file branch..."
+6. send feature from branch "add_help" to GitHub
+push -u origin add_help
+7.use pull reguest on GitHub
+8.use merge pull reguest on GitHub
+9.cwitch on main branch
+git switch main
+10.get changes fromGitHub to main(local)
+git pull origin main
+11. delete branch add_help
+git branch -d add_help
